@@ -10,7 +10,7 @@ import { useEffect } from "react";
 function App (){
 
 
-   // code likhna isAuthentciated
+   
     const {isAuthenticated} =  useSelector((state)=>state.auth);
     const dispatch = useDispatch();
   
