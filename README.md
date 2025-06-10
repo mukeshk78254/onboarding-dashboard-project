@@ -2,7 +2,7 @@
 
 A full-stack application featuring a multi-step user onboarding wizard and a personalized dashboard. Built with the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS & daisyUI.
 
-# Tech Stack
+# Tech Stack 
 *Frontend  ->
 React
 React Router
