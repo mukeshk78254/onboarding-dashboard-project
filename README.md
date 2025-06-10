@@ -3,13 +3,13 @@
 A full-stack application featuring a multi-step user onboarding wizard and a personalized dashboard. Built with the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS & daisyUI.
 
 # Tech Stack
-*Frontend
+*Frontend  ->
 React
 React Router
 Redux Toolkit
 Axios,tailwind css,daisyUI,Recharts,React hook and zod
 
-*Backend
+*Backend  ->
 Node.js
 Express
 MongoDB(use  compass cluster database)   
